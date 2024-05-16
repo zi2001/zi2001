@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently working on BirdCLEF 2024 Kaggle Competition
 - 🚀 Recently completed a bootcamp in Data Science and AI at Le Wagon
-- 🎓 Background in Biomedical Engineering with First-Class Honours from Imperial College London
+- 🎓 Background in Biomedical Engineering from Imperial College London
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-hamdi/)
