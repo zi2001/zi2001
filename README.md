@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently working on BirdCLEF 2024 Kaggle Competition
 - 🚀 Recently completed a bootcamp in Data Science and AI at Le Wagon
-- 🎓 Background in Biomedical Engineering from Imperial College London
+- 🎓 Meng in Biomedical Engineering from Imperial College London
 
   ## Technical Highlights
 
