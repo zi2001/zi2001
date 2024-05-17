@@ -13,7 +13,7 @@
   - We built a Convolutional Neural Network (CNN) model on a dataset from a Kaggle competition with approximately 10,000 songs across 10 different genres.
   - The model's accuracy reached 90% for music genre classification.
   - We implemented an API deployed on Google Cloud Platform (GCP) and built a user-friendly interface using Streamlit. This interface includes features such as music genre classification, a learning platform, and an engaging practice game.
-  - Explore the project repositories for further details: [deep learning repo](#) and [web interface repo](#).
+  - Explore the project repositories for further details
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zineb-hamdi/)
