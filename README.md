@@ -9,7 +9,7 @@
   ## Technical Highlights
 
 - 🎵 [Musify](#) - Music Genre Classification powered by AI
-  - For our final project of Le Wagon BootCamp, we created an application to classify music genres using advanced AI techniques.
+  - For the final project of Le Wagon BootCamp, I created an application to classify music genres using advanced AI techniques.
   - We built a Convolutional Neural Network (CNN) model on a dataset from a Kaggle competition with approximately 10,000 songs across 10 different genres.
   - The model's accuracy reached 90% for music genre classification.
   - We implemented an API deployed on Google Cloud Platform (GCP) and built a user-friendly interface using Streamlit. 
